@@ -29,6 +29,7 @@ public class CityContent {
         addItem(new CityItem("2", "Cairo", "https://en.wikipedia.org/wiki/Cairo"));
         addItem(new CityItem("3", "Paris", "https://en.wikipedia.org/wiki/Paris"));
         addItem(new CityItem("4", "Yaounde", "https://en.wikipedia.org/wiki/Yaoundé"));
+        addItem(new CityItem("5", "Nairobi", "https://en.wikipedia.org/wiki/Nairobi"));
     }
 
     private static void addItem(CityItem item) {
